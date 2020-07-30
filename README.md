@@ -1,2 +1,3 @@
-# Optimal_Vehicle_Pricing_Prediction
-Optimal Vehicle Pricing in Automotive Sector using Gradient Boosting
+# Optimal Vehicle Pricing Prediction
+
+This repository contains the analysis of Optimal Vehicle Pricing in Automotive Sector using Gradient Boosting.
